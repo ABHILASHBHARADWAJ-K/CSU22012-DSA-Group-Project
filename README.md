@@ -31,7 +31,7 @@ million entries
 
 
 
-## Part - 1 Shortest Path Algorithm ( Djikstra's Algorithm )
+## Part - 1 Shortest Path Algorithm ( Dijkstra's algorithm )
 Shortest Paths between 2 bus stops (as input by the user), returning the list of stops en route as well as the associated “cost”.
 
 Stops are listed in stops.txt and connections (edges) between them come from stop_times.txt and
